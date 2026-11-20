@@ -201,4 +201,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Rust · Updated 2026-10-27 · Shared under the MIT License*
+*Rust · Updated 2026-11-20 · Shared under the MIT License*
